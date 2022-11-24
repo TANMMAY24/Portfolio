@@ -24,7 +24,7 @@ const Navbar = () => {
                         duration:1.1
                     }}
                     class="cursor-pointer flex-shrink-0 h-8 w-8 text-[#001219] text-4xl text-mono" ><Link to="hero" spy={true} smooth={true} offset={0} duration={500}>
-                        R_D
+                        T_S
                     </Link></motion.div>
                     <motion.div
                     initial={{
